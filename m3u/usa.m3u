@@ -1,52 +1,4 @@
 #EXTM3U
-
-#EXTINF:O,ABC USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
-#EXTINF:O,AMC USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430
-#EXTINF:O,CBS USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cbss1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cbss1569&vw=600&vh=430
-#EXTINF:O,Cinemax USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cinemax1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cinemax1569&vw=600&vh=430
-#EXTINF:O,Nick USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=nick1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=nick1569&vw=600&vh=430
-#EXTINF:O,FX USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=fx1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fx1569&vw=600&vh=430
-#EXTINF:O,FOX USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=fox1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fox1569&vw=600&vh=430
-#EXTINF:O,FOX News USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=foxnews1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
-#EXTINF:O,HBO USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=hbo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=hbo1569&vw=600&vh=430
-#EXTINF:O,MS NBC USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=msnbc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=msnbc1569&vw=600&vh=430
-#EXTINF:O,MTV USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=mtv1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=mtv1569&vw=600&vh=430
-#EXTINF:O,SHOW Time USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=show1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=show1569&vw=600&vh=430
-#EXTINF:O,SYFY HD USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=syfy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=syfy1569&vw=600&vh=430
-#EXTINF:O,TBS USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=tbs1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tbs1569&vw=600&vh=430
-#EXTINF:O,TNT USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=tnt1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tnt1569&vw=600&vh=430
-#EXTINF:O,USA Network
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=usanet1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=usanet1569&vw=600&vh=430
-#EXTINF:O,CNN USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430
-#EXTINF:O,Cartoon Network USA
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cartoonet100 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cartoonet100&vw=600&vh=430
-#EXTINF:O,BBC World News USA
-rtmp://$OPT:rtmp-raw=rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php?stream=bbcccc&vw=600&vh=430
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_movies_middle_east.png"group-title="cable",Fox Movies 
 http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
 
@@ -92,8 +44,14 @@ http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png"group-title="cable",Cinemax
 http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_ca.png"group-title="cable",CTV 1
 http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_two_ca.png"group-title="cable",CTV 2
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_tw_hd.png"group-title="cable",CTV 3
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="cable",Warner Brothers
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
@@ -109,6 +67,9 @@ http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_1_este.png" group-title="cable",Fox 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_1_este.png" group-title="cable",Fox Cinema
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_1_este.png" group-title="cable",WGN 9 CW
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
