@@ -60,7 +60,8 @@ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:0 tvg-logo="http://www.tvweek.com/blogs/tvbizwire/abc%20news-logo.jpg" group-title="News",ABC News 
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
+#EXTINF:0, ESPN 3 HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_documentary_ru.png"group-title="cable",RT Documentary HD
@@ -206,27 +207,6 @@ http://kalsegsec-a.akamaihd.net:80/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 
 
-#EXTINF:0, ESPN test 1
-
-#EXTINF:0, ESPN HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
-#EXTINF:0, ESPN 3 HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
 
 
-#EXTINF:0, ESPN test 2
 
-#EXTINF:0,ESPN 2 HD
-rtmp://89.248.172.145:1935/edge/_definst_/rgyus7ao2ullmbt
-#EXTINF:0,ESPN 2
-rtmp://89.248.172.145:1935/edge/_definst_/5hd19kwxef5b59o
-#EXTINF:0,ESPN HD
-rtmp://89.248.172.145:1935/edge/_definst_/xoaaohmeuajfeyf
-#EXTINF:0,ESPN
-rtmp://89.248.172.145:1935/edge/_definst_/dp2g1w4ip6v0zoc
-#EXTINF:0,ESPN+
-rtmp://$OPT:rtmp-raw=rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN%20HD.html
-#EXTINF:0,ESPN
-rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90:443/liverepeater playpath=26 pageUrl=http://popeoftheplayers.pw/byDMO token=#atd%#$ZH
-#EXTINF:0,ESPN
-rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.pw/byDMO token=#atd%#$ZH
