@@ -1,4 +1,36 @@
 #EXTM3U
+
+
+#EXTINF:-1, CW 11
+rtmp://178.18.31.56:443/liverepeater playpath=191909 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/stream.php?id=191909&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, ABC7
+rtmp://178.18.31.59:443/liverepeater playpath=191903 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, Comedy Central
+rtmp://178.18.31.59:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, CBS2 NY
+rtmp://178.18.31.59:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, FOX5
+rtmp://178.18.31.59:443/liverepeater playpath=191910 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, FOX News
+rtmp://178.18.31.59:443/liverepeater playpath=191911 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, TNT East
+rtmp://178.18.31.59:443/liverepeater playpath=191917 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, TBS
+rtmp://178.18.31.59:443/liverepeater playpath=191916 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
+#EXTINF:-1, AMC
+rtmp://178.18.31.56:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, Bravo
+rtmp://178.18.31.56:443/liverepeater playpath=191905 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, Nick Toons
+rtmp://178.18.31.56:443/liverepeater playpath=194059 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/stream.php?id=194058&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Disney Channel USA HD 
+rtmp://stream.connectcast.tv/live playpath=mp4:CC-F91655E4-277C-E23A-B447-5E1B21E83E21-31816 swfUrl=http://connectcast.tv/jwplayer/v6.12/jwplayer.flash.swf live=1 pageUrl=http://connectcast.tv/hoaney
+
+
+
+
+
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_movies_middle_east.png"group-title="cable",Fox Movies 
 http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
 
